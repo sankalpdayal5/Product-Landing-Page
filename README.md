@@ -1,3 +1,3 @@
-# Product-Landing-Page
+# Product Landing Page
 
 This is dedicated to **Lenovo**.
